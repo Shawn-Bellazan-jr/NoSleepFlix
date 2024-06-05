@@ -24,9 +24,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Entities\" />
-	  <Folder Include="Interfaces\" />
-	  <Folder Include="UseCases\" />
+	  <Folder Include="Data\" />
+	  <Folder Include="Auth\" />
+	  <Folder Include="Logging\" />
+	  <Folder Include="Services\" />
 	</ItemGroup>
 
 </Project>
